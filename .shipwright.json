@@ -4,6 +4,6 @@
   "names": {
     "/": "shipwright/base",
     "/shared": "shipwright/shared",
-    "/service1": "shipwright/service1"
+    "/docker/service1": "shipwright/service1"
   }
 }
