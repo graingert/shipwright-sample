@@ -1,6 +1,9 @@
 {
   "version": 1.0,
-
-  "namespace": "shipwright"
-
+  "namespace": "shipwright",
+  "names": {
+    "/": "shipwright/base",
+    "/shared": "shipwright/shared",
+    "/service1": "shipwright/service1"
+  }
 }
